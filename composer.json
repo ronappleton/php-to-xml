@@ -1,0 +1,18 @@
+{
+    "name": "ronappleton/php-to-xml",
+    "description": "Convert Json String, Object or Array to Simple XML",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ron Appleton",
+            "email": "ron.appleton@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "RonAppleton\\PhpToXml\\": "src/"
+        }
+    }
+}
